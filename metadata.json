@@ -1,0 +1,5 @@
+{
+  "name": "DineDecider UK",
+  "description": "Smart restaurant finder and random picker powered by Gemini Google Maps Grounding.",
+  "requestFramePermissions": []
+}
